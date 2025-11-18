@@ -1,0 +1,51 @@
+﻿OrderID,OrderDate,Region,Category,SubCategory,Sales,Quantity,Profit
+1001,1/3/2024,East,Furniture,Chairs,250.5,2,48
+1002,1/5/2024,West,Technology,Phones,780,3,210
+1003,1/6/2024,South,Office Supplies,Binders,35.2,4,8.5
+1004,1/8/2024,Central,Furniture,Tables,420,1,-50
+1005,1/10/2024,East,Technology,Laptops,1250,1,320
+1006,1/12/2024,South,Furniture,Bookcases,300,1,60
+1007,1/14/2024,West,Office Supplies,Paper,19,5,5
+1008,1/15/2024,Central,Technology,Accessories,65,2,15
+1009,1/18/2024,East,Furniture,Chairs,210,2,42
+1010,1/20/2024,West,Technology,Phones,920,4,250
+1011,1/22/2024,South,Office Supplies,Binders,42.1,6,10
+1012,1/25/2024,Central,Furniture,Tables,510,1,-35
+1013,1/27/2024,East,Technology,Laptops,1440,1,380
+1014,1/29/2024,South,Furniture,Bookcases,280,1,55
+1015,2/1/2024,West,Office Supplies,Paper,22,6,6.3
+1016,2/2/2024,Central,Technology,Accessories,72,2,18
+1017,2/5/2024,East,Furniture,Chairs,198,2,40
+1018,2/6/2024,West,Technology,Phones,840,3,215
+1019,2/7/2024,South,Office Supplies,Binders,39.5,5,9
+1020,2/9/2024,Central,Furniture,Tables,430,1,-48
+1021,2/10/2024,East,Technology,Laptops,1320,1,345
+1022,2/11/2024,South,Furniture,Bookcases,295,1,58
+1023,2/12/2024,West,Office Supplies,Paper,20,5,5.1
+1024,2/13/2024,Central,Technology,Accessories,68,2,16
+1025,2/14/2024,East,Furniture,Chairs,225,2,44
+1026,2/16/2024,West,Technology,Phones,890,3,230
+1027,2/17/2024,South,Office Supplies,Binders,37.8,4,8
+1028,2/19/2024,Central,Furniture,Tables,500,1,-25
+1029,2/21/2024,East,Technology,Laptops,1400,1,370
+1030,2/22/2024,South,Furniture,Bookcases,310,1,62
+1031,2/24/2024,West,Office Supplies,Paper,18.5,4,4.5
+1032,2/25/2024,Central,Technology,Accessories,80,2,19
+1033,2/26/2024,East,Furniture,Chairs,230,2,47
+1034,2/27/2024,West,Technology,Phones,760,3,205
+1035,2/29/2024,South,Office Supplies,Binders,41.2,5,9.3
+1036,3/1/2024,Central,Furniture,Tables,540,1,-20
+1037,3/2/2024,East,Technology,Laptops,1500,1,400
+1038,3/3/2024,South,Furniture,Bookcases,305,1,60
+1039,3/4/2024,West,Office Supplies,Paper,25,7,7
+1040,3/6/2024,Central,Technology,Accessories,75,2,17
+1041,3/8/2024,East,Furniture,Chairs,240,2,46
+1042,3/10/2024,West,Technology,Phones,820,3,220
+1043,3/11/2024,South,Office Supplies,Binders,36,4,7.5
+1044,3/12/2024,Central,Furniture,Tables,515,1,-30
+1045,3/13/2024,East,Technology,Laptops,1380,1,355
+1046,3/14/2024,South,Furniture,Bookcases,298,1,59
+1047,3/15/2024,West,Office Supplies,Paper,21,5,5
+1048,3/17/2024,Central,Technology,Accessories,70,2,15.5
+1049,3/18/2024,East,Furniture,Chairs,210,2,43
+1050,3/20/2024,West,Technology,Phones,900,3,240
