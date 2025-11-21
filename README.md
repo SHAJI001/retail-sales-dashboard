@@ -1,37 +1,22 @@
 Retail Sales Performance Dashboard
-Overview
 
-This project analyzes retail transaction data to evaluate sales performance, profitability, and trends across product categories and geographic regions.
-The Excel-based dashboard provides business stakeholders with clear, interactive insights using PivotTables, slicers, KPI cards, and custom visuals.
+This project analyzes retail transaction data to evaluate sales performance, profitability, and trends across product categories and geographic regions. The resulting Excel-based dashboard provides business stakeholders with clear, interactive insights using automated PivotTables, slicers, and visualizations.
 
 Repository Structure
-├── images/                    # Dashboard preview screenshot(s)
-├── CASE_STUDY.md              # Full project analysis and methodology
-├── RetailSalesDashboard.xlsx  # Final interactive Excel dashboard
-├── RetailSalesData.csv        # Raw dataset
-└── README.md                  # Project documentation
+/images/                     Dashboard preview screenshot(s)
+CASE_STUDY.md               Full project case study
+RetailSalesDashboard.xlsx   Final Excel dashboard
+RetailSalesData.csv         Raw dataset
+README.md                   Project documentation
 
 Dataset
 
-The dataset contains retail sales records including:
+The dataset contains retail sales records including order dates, regions, product categories, sub-categories, sales amounts, profit, and quantities sold.
+These fields enable analysis of regional performance, product-level profitability, and monthly sales patterns.
 
-Order dates and parsed month/year fields
+Objectives
 
-Regions
-
-Product categories and sub-categories
-
-Sales amounts
-
-Profit
-
-Quantities sold
-
-These fields allow detailed analysis of regional performance, product-level profitability, and monthly sales trends.
-
-Project Objectives
-
-This project aims to answer key business questions:
+This project aims to answer key business questions, including:
 
 Which regions generate the highest sales and profit?
 
@@ -57,48 +42,28 @@ Data cleaning and transformation (date parsing, calculated fields)
 
 Methodology
 
-Loaded and cleaned the raw dataset.
+Cleaned and prepared the raw dataset (date formatting, field corrections).
 
-Parsed date fields into Month and Year.
+Built PivotTables for regional performance, category profitability, and monthly trends.
 
-Built PivotTables for regional, category, and monthly analyses.
+Designed KPI cards summarizing total sales, total profit, and profit margin.
 
-Created KPI indicators for Total Sales, Total Profit, and Profit Margin.
+Created interactive slicers for Category, Region, and Year filtering.
 
-Designed the interactive dashboard using charts and slicers.
+Assembled all components into a unified dashboard layout.
 
-Added formatting and layout enhancements to improve clarity and usability.
+Styled the dashboard for clarity, consistency, and business usability.
 
 Dashboard Preview
+
 ![Retail Dashboard](images/Screenshot%202025-11-19%20123601.png)
+
 Key Insights
 
-The East region produced the highest total sales.
+The East region generated the highest sales volume.
 
-Technology is the most profitable category.
+Technology was the most profitable product category.
 
-Sales peak in February, while January shows lower performance.
+Monthly sales showed strongest performance in February.
 
-Certain sub-categories show negative or low profitability, indicating improvement opportunities.
-
-How to Use
-
-Download the dataset from /images or /data folder.
-
-Open the Excel dashboard file.
-
-Use slicers to filter by Category, Region, or Year.
-
-Explore monthly trends, profitability, and performance drivers.
-
-File Links
-
-Dashboard: RetailSalesDashboard.xlsx
-
-Case Study: CASE_STUDY.md
-
-Raw Data: RetailSalesData.csv
-
-Contact
-
-If you have any questions or would like to discuss this project, feel free to reach out.
+Some categories displayed lower profit margins, suggesting opportunities for pricing or cost improvements.
