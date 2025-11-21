@@ -51,7 +51,7 @@ This project aims to answer key business questions, including:
 ---
 
 ## **Dashboard Preview**
-![Retail Dashboard](images/Screenshot_2025-11-19_123601.png)
+![Retail Dashboard](images/Screenshot%202025-11-19%20123601.png)
 
 ---
 
