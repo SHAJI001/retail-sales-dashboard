@@ -27,5 +27,6 @@ For detailed analysis steps, see **CASE_STUDY.md**.
 
 ## Dashboard Preview
 
-![retail-sales-dashboard](images/Screenshot_2025-11-19_123601.png)
+![Retail Dashboard](images/Screenshot%202025-11-19%20123601.png)
+
 
