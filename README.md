@@ -1,23 +1,30 @@
 Retail Sales Performance Dashboard
 Overview
 
-This project analyzes retail transaction data to evaluate sales performance, profitability, and trends across product categories and geographic regions. The resulting Excel-based dashboard provides business stakeholders with clear, interactive insights through automated PivotTables, slicers, and visualizations.
-
-Repository Structure
-├── images/                     # Dashboard preview screenshot
-├── CASE_STUDY.md               # Full project case study
-├── RetailSalesDashboard.xlsx   # Final Excel dashboard
-├── RetailSalesData.csv         # Raw dataset
-└── README.md                   # Project documentation
+This project analyzes retail transaction data to evaluate sales performance, profitability, and trends across product categories and geographic regions.
+The interactive Excel-based dashboard provides business stakeholders with clear insights using automated PivotTables, slicers, and KPI-driven visuals.
 
 Dataset
 
-The dataset contains retail sales records including order dates, regions, product categories, sub-categories, sales amounts, profit, and quantities sold.
-These fields enable analysis of regional performance, product-level profitability, and monthly sales patterns.
+The dataset contains detailed retail sales records, including:
+
+Order dates
+
+Regions
+
+Product categories and sub-categories
+
+Sales amounts
+
+Profit
+
+Quantities sold
+
+These fields enable analysis of regional performance, product-level profitability, and monthly sales trends.
 
 Objectives
 
-This project aims to answer key business questions, including:
+The dashboard was designed to answer key business questions, including:
 
 Which regions generate the highest sales and profit?
 
@@ -25,7 +32,7 @@ Which product categories are most and least profitable?
 
 What are the monthly sales trends?
 
-Are there any underperforming segments?
+Are any segments underperforming?
 
 How do profit margins vary across categories?
 
@@ -43,54 +50,40 @@ Data cleaning and transformation (date parsing, calculated fields)
 
 Methodology
 
-Cleaned and validated raw sales data.
+Cleaned and standardized raw sales data.
 
-Extracted Month and Year using formula-driven date transformations.
+Parsed dates into month and year fields.
 
-Built three primary PivotTables:
+Built PivotTables for regional sales, category profitability, and monthly trends.
 
-Sales by Region
+Created interactive PivotCharts for visual exploration.
 
-Profit by Category
+Designed KPI indicators for total sales, total profit, and profit margin.
 
-Monthly Sales Trend
+Added slicers for dynamic filtering by category, region, and year.
 
-Created KPI cards for:
+Organized all components into a structured dashboard layout.
 
-Total Sales
-
-Total Profit
-
-Profit Margin
-
-Designed an interactive dashboard layout integrating charts and slicers.
-
-Applied professional formatting, color themes, and layout balance for clarity.
+Repository Structure
+images/                     # Dashboard preview screenshot
+CASE_STUDY.md               # Full project case study
+RetailSalesDashboard.xlsx   # Final Excel dashboard
+RetailSalesData.csv         # Raw dataset
+README.md                   # Project documentation
 
 Dashboard Preview
 ![Retail Dashboard](images/Screenshot%202025-11-19%20123601.png)
-How to Use
+Key Insights
 
-Download or clone this repository.
+The East region contributes the highest overall sales.
 
-Open RetailSalesDashboard.xlsx in Excel.
+Technology products yield the greatest profit margins.
 
-Use the slicers to filter by Region, Category, or Year.
+Office Supplies show low profit and negative margins in some segments.
 
-Review KPI metrics and charts to gain actionable insights.
+Monthly trends highlight February as the best-performing month.
 
-Refer to CASE_STUDY.md for a full breakdown of the analysis process.
+Conclusion
 
-Key Insights (Example Findings)
-
-The East region generated the highest total sales.
-
-Technology products contributed the majority of profit.
-
-February exhibited the strongest monthly sales performance.
-
-Some categories show negative profit, requiring further investigation.
-
-License
-
-This project is provided for educational and portfolio purposes.
+This project demonstrates the ability to clean, analyze, and visualize retail data using Excel.
+The final dashboard offers a clear and interactive tool for evaluating sales performance and guiding business decisions.
