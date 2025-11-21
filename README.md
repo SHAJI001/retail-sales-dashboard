@@ -1,4 +1,4 @@
-Retail Sales Performance Dashboard
+#Retail Sales Performance Dashboard
 Overview
 
 This project analyzes retail transaction data to evaluate sales performance, profitability, and trends across product categories and geographic regions. The resulting Excel-based dashboard provides business stakeholders with clear, interactive insights through automated PivotTables, slicers, and visualizations.
