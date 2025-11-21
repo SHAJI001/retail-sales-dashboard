@@ -24,3 +24,7 @@ This project analyzes retail transaction data to understand sales, profit, and t
 5. Add slicers to make it interactive.  
 
 For detailed analysis steps, see **CASE_STUDY.md**.
+
+## Dashboard Preview
+
+![Retail Dashboard](Screenshot 2025-11-19 123601.png)
